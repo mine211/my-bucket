@@ -9,7 +9,7 @@
             "hash": "7fe70c10f9ad18a40916ccdda00e871171e21244a24bc5039e8741a8865dd180"
         }
     },
-    "extract_dir": "kdenlive-19.04.1-2_portable",
+    "extract_dir": "kdenlive-19.12.3_standalone.exe",
     "shortcuts": [
         [
             "bin\\kdenlive.exe",
