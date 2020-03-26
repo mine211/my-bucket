@@ -5,11 +5,11 @@
     "version": "19.12.3",
     "architecture": {
         "64bit": {
-            "url": "https://files.kde.org/kdenlive/release/kdenlive-19.12.3_standalone.exe",
+            "url": "https://files.kde.org/kdenlive/release/kdenlive-19.12.3_standalone.exe#/dl.7z",
             "hash": "7fe70c10f9ad18a40916ccdda00e871171e21244a24bc5039e8741a8865dd180"
         }
     },
-    "extract_dir": "kdenlive-19.12.3_standalone.exe",
+    "extract_dir": "kdenlive-19.12.3_standalone",
     "shortcuts": [
         [
             "bin\\kdenlive.exe",
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://files.kde.org/kdenlive/release/kdenlive-$version_standalone.exe"
+                "url": "https://files.kde.org/kdenlive/release/kdenlive-$version_standalone.exe#/dl.7z"
             }
         },
         "hash": {
