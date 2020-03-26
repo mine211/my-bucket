@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://files.kde.org/kdenlive/release/kdenlive-19.12.3_standalone.exe#/dl.7z",
-            "hash": "9142c6e5f93473a50983a2e590d7c0067f8331d46c19fa33597097df606b695b"
+            "hash": "7fe70c10f9ad18a40916ccdda00e871171e21244a24bc5039e8741a8865dd180"
         }
     },
     "extract_dir": "kdenlive-19.04.1-2_portable",
